@@ -148,7 +148,7 @@ A User can have a number of Posts and each Post can have a number of Comments re
   
 <hr/>
 
-## Development / contribution
+## Development
   * Clone the project
   ```
     https://github.com/ericmbouwe/Micro-reddit.git
